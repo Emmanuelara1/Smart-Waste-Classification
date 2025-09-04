@@ -42,7 +42,7 @@ Data preprocessing included resizing, normalization, augmentation (rotation, fli
 - Priya Patel – Data preprocessing, frontend development
 - Sukhjit Kaur – API development & optimization
 - Rutvi Patel – Model training, hyperparameter tuning, documentation
-- Emmanuel Araoyinbo – Documentation & validation testing
+- Emmanuel Araoyinbo – Documentation & validation testing OpenCV integration
 
 ## 🌍 Impact
 This project highlights how AI and sustainability can work together to create smart waste management solutions for recycling plants, smart cities, and educational institutions. By automating waste classification, it reduces manual labor, improves accuracy, and promotes environmentally friendly practices.
